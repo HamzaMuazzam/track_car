@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "225002018171",
+    "project_id": "smt-internal",
+    "storage_bucket": "smt-internal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225002018171:android:d2fd8b79889f33331199de",
+        "android_client_info": {
+          "package_name": "com.example.twtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225002018171-7c02jk4rsllno5j6n1nfrqh1g49nh3qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykb9hlZywdTElbk8z0wPgII739CQVFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225002018171-7c02jk4rsllno5j6n1nfrqh1g49nh3qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225002018171-j4atj8qjotcahfrmmb98i4dirujfnbua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inifnity.smtConnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225002018171:android:74e3a628f56adf351199de",
+        "android_client_info": {
+          "package_name": "com.inifnity.smt_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225002018171-6lbi4dj3a887rmsmh3strs433bokmmp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inifnity.smt_connect",
+            "certificate_hash": "81376a46cf2e1606975fb8c5ec4b210ac7088f49"
+          }
+        },
+        {
+          "client_id": "225002018171-7c02jk4rsllno5j6n1nfrqh1g49nh3qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykb9hlZywdTElbk8z0wPgII739CQVFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225002018171-7c02jk4rsllno5j6n1nfrqh1g49nh3qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225002018171-j4atj8qjotcahfrmmb98i4dirujfnbua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inifnity.smtConnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225002018171:android:89f340cb6dff124a1199de",
+        "android_client_info": {
+          "package_name": "com.logicaldevs.track_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225002018171-7c02jk4rsllno5j6n1nfrqh1g49nh3qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykb9hlZywdTElbk8z0wPgII739CQVFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225002018171-7c02jk4rsllno5j6n1nfrqh1g49nh3qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225002018171-j4atj8qjotcahfrmmb98i4dirujfnbua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inifnity.smtConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
